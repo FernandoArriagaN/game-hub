@@ -1,0 +1,71 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image: url(./bg.jpg); 
+  background-position: center;
+  background-size: cover;
+  
+  
+  color: #E0E0E0; 
+}
+
+
+.navbar {
+  background-color: #2C003E; 
+}
+
+.navbar-brand, .nav-link {
+  color: #E0E0E0 ; 
+}
+
+
+
+.nav-link:hover {
+  color: #006eff !important; 
+}
+
+
+
+
+.btn-primary {
+  background-color: #9B59B6; 
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #8E44AD; 
+}
+
+
+.card {
+  border: 1px solid #414141; 
+}
+
+.card-title {
+  color: #9B59B6; 
+}
+
+
+.card-body {
+  background-color: #252525; 
+}
+
+
+footer {
+  background-color: #2C003E; 
+
+}
+
+
+.form-control {
+  background-color: #2A2A2A; 
+  color: #E0E0E0;
+  border: 1px solid #444444; 
+}
+
+.form-control:focus {
+  background-color: #333333; 
+  border-color: #9B59B6; 
+  color: #fff; /
+}
+
+
